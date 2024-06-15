@@ -17,7 +17,10 @@ nav:
       - docs/index.md
       - 高级语言程序设计: docs/08304135_ALP/index.md
       - 程序设计(C语言): docs/00864088_C/index.md
+      - 面向对象程序设计: docs/08305121_OOP/index.md
       - 面向对象程序设计A: docs/08305138_OOP/index.md
+      - 数字逻辑A: docs/08305071_DL/index.md
+      - 信号处理: docs/08695001_SP/index.md
       - 离散数学: docs/08305152_DM/index.md
       - 计算机组成原理与体系结构A: docs/08695028_CS/index.md
       - 矩阵代数与应用A: docs/08695029_MT/index.md
